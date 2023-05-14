@@ -131,8 +131,8 @@ if not defined dirPath (
     echo └──────────────────────┘
     echo  └ %color.bold%%color.foreground.lightYellow%Status%color.reset%: %toggleText%
     echo  └ %color.bold%%color.foreground.lightYellow%Author%color.reset%: %color.foreground.lightCyan%@%color.foreground.lightWhite%wuw.sh %color.reset%(%color.foreground.lightCyan%https://github.com/wuw-sh%color.reset%)
-    echo  └ %color.bold%%color.foreground.lightYellow%Version%color.reset%: %color.foreground.lightCyan%1.0.1%color.reset%
-    echo  └ %color.bold%%color.foreground.lightYellow%Repository%color.reset%: %color.foreground.lightCyan%https://www.roblox.com%color.reset%
+    echo  └ %color.bold%%color.foreground.lightYellow%Version%color.reset%: %color.foreground.lightCyan%1.0.2%color.reset%
+    echo  └ %color.bold%%color.foreground.lightYellow%Repository%color.reset%: %color.foreground.lightCyan%https://github.com/wuw-sh/Roblox-FPS-Booster%color.reset%
     echo.
 
     set /p enter = "%color.bold%( Press %color.reset%%color.background.lightGreen%%color.foreground.black% Enter %color.reset%%color.bold% to toggle %color.foreground.lightYellow%Status %color.reset%%color.bold%)%color.reset.all%"

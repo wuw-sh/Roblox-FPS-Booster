@@ -1,12 +1,14 @@
 # Roblox FPS Booster
 
+<img src="./terminal.png" alt="terminal">
+
 ## About
 
 This is a simple FPS booster for Roblox. It is a simple script that will disable some of the more resource intensive features of Roblox to help improve FPS.
 
 ## Installation
 
-Download the latest release from [here](https://github.com/wuw-sh/Roblox-FPS-Booster/releases/tag/%401.0.1)
+Download the latest release from [here](https://github.com/wuw-sh/Roblox-FPS-Booster/releases/)
 
 ## Project Developer
 
