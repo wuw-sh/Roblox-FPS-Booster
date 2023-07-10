@@ -103,7 +103,7 @@ for /d /r %%a in (*) do (
   )
 )
 
-if not defined dirPath (
+if not exist dirPath (
   goto :notfound
 )
 
